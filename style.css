@@ -89,4 +89,6 @@ footer a:focus{
     color: greenyellow;
 }
 
-
+footer a:visited{
+    color: navy;
+}
